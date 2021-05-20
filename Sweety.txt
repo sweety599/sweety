@@ -1,0 +1,19 @@
+#Aim:to print total and average of three numbers
+#source code:
+a=int(input('enter a'))
+b=int(input('enter b'))
+c=int(input('enter c'))
+total=a+b+c
+Print("total")
+Print(total)
+Print("average")
+average=total/3
+Print(average)
+#ouput:
+enter a3
+enter b4
+enter c2
+total
+9
+average
+3
